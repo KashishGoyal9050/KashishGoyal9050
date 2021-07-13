@@ -1,6 +1,6 @@
 ### Hi There,I'm Kashish!👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KashishGoyal905&label=Views&color=blue&style=plastic" alt="KashishGoyal905" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KashishGoyal9050&label=Views&color=blue&style=plastic" alt="KashishGoyal905" /> </p>
 
 - 🔭 I’m currently working on Many Projects😎
 - 🌱 I’m currently learning 🌿MongoDb
@@ -31,16 +31,11 @@
 <br />
 
 <div align="left">
-<a href="https://github.com/KashishGoyal905">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashishGoyal905&theme=radical&hide_langs_below=1" />
+<a href="https://github.com/KashishGoyal9050">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashishGoyal9050&theme=radical&hide_langs_below=1" />
 </a>
-<a href="https://github.com/KashishGoyal905">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KashishGoyal905&show_icons=true&theme=radical&line_height=27" alt="Kashish github stats"/>
+<a href="https://github.com/KashishGoyal9050">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KashishGoyal9050&show_icons=true&theme=radical&line_height=27" alt="Kashish github stats"/>
 </a>
 <div>
   <br/>
-  <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
